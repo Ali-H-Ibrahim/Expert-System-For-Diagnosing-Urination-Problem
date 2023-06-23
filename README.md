@@ -1,5 +1,5 @@
 # Expert-System-For-Diagnosing-Urination-Problem ❤️
-# نطام خبير لتشخيص امراض الجهاز البولي بدقة عالية باللغتين العربية والانكليزية
+# An expert system for diagnosing diseases of the urinary system with high accuracy in both Arabic and English
   
 ## ✒️Uses 
 1. > * Python 3.8
